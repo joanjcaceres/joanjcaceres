@@ -14,6 +14,7 @@ I use this space to share research-oriented tools, simulations, and utilities th
 
 ## Featured Projects
 
+- [sccircuits](https://github.com/joanjcaceres/sccircuits) - Python package for superconducting quantum circuit analysis, including Black Box Quantization and circuit parameter fitting.
 - [cqedraw](https://github.com/joanjcaceres/cqedraw) - Browser and desktop GUI for drawing superconducting circuit graphs and generating matrix snippets for Black Box Quantization workflows.
 - [HybridSuperQubits](https://github.com/joanjcaceres/HybridSuperQubits) - Python framework for simulating hybrid semiconductor-superconductor quantum circuits.
 - [klayout-duplication-cleaner](https://github.com/joanjcaceres/klayout-duplication-cleaner) - Scripts for detecting and removing duplicate shapes in KLayout layouts.
@@ -21,7 +22,3 @@ I use this space to share research-oriented tools, simulations, and utilities th
 ## Toolbox
 
 Python · Jupyter · scientific computing · quantum information · superconducting qubits · hybrid quantum circuits · KLayout · CAD and simulation workflows
-
-## Links
-
-- GitHub: [github.com/joanjcaceres](https://github.com/joanjcaceres)
